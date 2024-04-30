@@ -42,7 +42,7 @@ python MF.py
 ```
 
 
-##Evaluation
+## Evaluation
 
 The results demonstrate that the inclusion of symbolic logic enhances interpretability without compromising the accuracy of the model:
 
@@ -57,12 +57,12 @@ The results demonstrate that the inclusion of symbolic logic enhances interpreta
 
 
 
-##Contributors
+## Contributors
 
 Balassubramanian Srinivasan
 Ziwei Zhu
 
-##Acknowledgments
+## Acknowledgments
 
 Special thanks to all contributors and researchers who have provided insights and feedback on this project.
 
