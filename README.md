@@ -62,8 +62,13 @@ The results demonstrate that the inclusion of symbolic logic enhances interpreta
 Balassubramanian Srinivasan  
 Ziwei Zhu
 
+## References
+
+Yuan, H., Zhao, P., Xian, X., Liu, G., Sheng, V. S., & Zhao, L. (2023). Sequential Recommendation with Probabilistic Logical Reasoning. Retrieved from [arXiv:2304.11383](https://arxiv.org/pdf/2304.11383.pdf)
+
 ## Acknowledgments
 
-Special thanks to all contributors and researchers who have provided insights and feedback on this project.
+This project takes inspiration from the concepts and methodologies discussed in "Sequential Recommendation with Probabilistic Logical Reasoning" by Huanhuan Yuan et al. We extend our gratitude to the authors for their contributions to the field of recommendation systems and their impact on our work.
+
 
 
