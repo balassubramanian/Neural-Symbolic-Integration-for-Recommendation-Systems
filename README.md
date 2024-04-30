@@ -1,10 +1,11 @@
 # Neural-Symbolic Integration for Recommendation Systems
 
-This repository contains the implementation of the Sequential Recommendation with Probabilistic Logical Reasoning (SR-PLR) framework, which combines deep learning and symbolic logic to enhance the interpretability and accuracy of recommendations using the MovieLens dataset.
+This repository hosts the SR-PLR framework implementation, integrating matrix factorization with symbolic logic for enhanced recommendation systems using the adapted MovieLens dataset. It includes scripts for dataset modification, model training, and logic-enhanced matrix factorization evaluations.
+
 
 ## Project Abstract
 
-This project explores the integration of deep learning and symbolic logic through the implementation of the SR-PLR framework. This approach aims to enhance interpretability and accuracy in recommendation systems by disentangling feature and logic embeddings, thus leveraging both neural network efficacy and symbolic reasoning.
+This project explores the integration of matrix factorization and symbolic logic through the implementation of the SR-PLR framework. This approach aims to enhance interpretability and accuracy in recommendation systems by disentangling feature and logic embeddings, thus leveraging both neural network efficacy and symbolic reasoning.
 
 ## Model Diagram
 
