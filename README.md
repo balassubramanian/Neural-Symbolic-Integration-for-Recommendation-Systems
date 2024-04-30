@@ -9,7 +9,7 @@ This project explores the integration of matrix factorization and symbolic logic
 
 ## Model Diagram
 
-![Model Diagram](path/to/your/model_diagram.png)
+![Model Diagram](Model Architecture.png)
 
 Here you can see the architecture of the SR-PLR model which illustrates the integration points of neural networks and symbolic logic components.
 
