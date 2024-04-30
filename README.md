@@ -59,7 +59,7 @@ The results demonstrate that the inclusion of symbolic logic enhances interpreta
 
 ## Contributors
 
-Balassubramanian Srinivasan \n
+Balassubramanian Srinivasan  
 Ziwei Zhu
 
 ## Acknowledgments
