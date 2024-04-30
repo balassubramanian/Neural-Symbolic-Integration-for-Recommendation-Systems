@@ -54,9 +54,7 @@ The results demonstrate that the inclusion of symbolic logic enhances interpreta
 | Mf with logic | lr=0.0001, re=0.001, epoch=100, hidden dime=128 | 0.9628  |
 | Mf with logic | lr=0.001, re=0.000001, epoch=100, hidden dime=128 | 0.1602  |
 
-SLPLR RECSYS: NDCG@10 - 0.1261
-Baseline MF: NDCG@10 - 0.9487
-MF with Logic: Various configurations yielded NDCG@10 ranging from 0.1602 to 0.9714
+
 
 Contributors
 Balassubramanian Srinivasan
