@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="12e63d03-0906-4fe7-9ee1-d6fcadfd393f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="2AJ1KrRfNB2eMozBvqgX37cfPNt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.MF">
+    <configuration name="MF" type="PythonConfigurationType" factoryName="Python">
+      <module name="MF_Pytorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MF.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MF2" type="PythonConfigurationType" factoryName="Python">
+      <module name="MF_Pytorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MatrixFactorization.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.MF" />
+      <item itemvalue="Python.MF2" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12e63d03-0906-4fe7-9ee1-d6fcadfd393f" name="Default Changelist" comment="" />
+      <created>1654712812570</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654712812570</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="360" y="219" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1654713841861">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="360" y="219" key="#com.intellij.execution.impl.EditConfigurationsDialog/1792.25.1920.1055/0.0.1792.1120@0.0.1792.1120" timestamp="1654713841861" />
+    <state width="1771" height="382" key="GridCell.Tab.0.bottom" timestamp="1654719260822">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1771" height="382" key="GridCell.Tab.0.bottom/1792.25.1920.1055/0.0.1792.1120@0.0.1792.1120" timestamp="1654719260822" />
+    <state width="1771" height="382" key="GridCell.Tab.0.center" timestamp="1654719260822">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1771" height="382" key="GridCell.Tab.0.center/1792.25.1920.1055/0.0.1792.1120@0.0.1792.1120" timestamp="1654719260822" />
+    <state width="1771" height="382" key="GridCell.Tab.0.left" timestamp="1654719260821">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1771" height="382" key="GridCell.Tab.0.left/1792.25.1920.1055/0.0.1792.1120@0.0.1792.1120" timestamp="1654719260821" />
+    <state width="1771" height="382" key="GridCell.Tab.0.right" timestamp="1654719260822">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1771" height="382" key="GridCell.Tab.0.right/1792.25.1920.1055/0.0.1792.1120@0.0.1792.1120" timestamp="1654719260822" />
+    <state width="1771" height="382" key="GridCell.Tab.1.bottom" timestamp="1654719260823">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1771" height="382" key="GridCell.Tab.1.bottom/1792.25.1920.1055/0.0.1792.1120@0.0.1792.1120" timestamp="1654719260823" />
+    <state width="1771" height="382" key="GridCell.Tab.1.center" timestamp="1654719260823">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1771" height="382" key="GridCell.Tab.1.center/1792.25.1920.1055/0.0.1792.1120@0.0.1792.1120" timestamp="1654719260823" />
+    <state width="1771" height="382" key="GridCell.Tab.1.left" timestamp="1654719260822">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1771" height="382" key="GridCell.Tab.1.left/1792.25.1920.1055/0.0.1792.1120@0.0.1792.1120" timestamp="1654719260822" />
+    <state width="1771" height="382" key="GridCell.Tab.1.right" timestamp="1654719260823">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1771" height="382" key="GridCell.Tab.1.right/1792.25.1920.1055/0.0.1792.1120@0.0.1792.1120" timestamp="1654719260823" />
+    <state x="405" y="196" key="SettingsEditor" timestamp="1654712991791">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="405" y="196" key="SettingsEditor/1792.25.1920.1055/0.0.1792.1120@0.0.1792.1120" timestamp="1654712991791" />
+    <state width="896" height="560" key="XDebugger.FullValuePopup" timestamp="1654716979259">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="896" height="560" key="XDebugger.FullValuePopup/1792.25.1920.1055/0.0.1792.1120@0.0.1792.1120" timestamp="1654716979259" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MF.py</url>
+          <line>57</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="self.user_list[batch_idx]" language="Python" />
+        <watch expression="self.item_list[batch_idx]" language="Python" />
+        <watch expression="u * v" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
