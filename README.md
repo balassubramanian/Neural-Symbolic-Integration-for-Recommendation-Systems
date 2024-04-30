@@ -30,12 +30,15 @@ Here you can see the architecture of the SR-PLR model which illustrates the inte
 ### Installation
 
 Clone the repository:
+```bash
 git clone https://github.com/balassubramanian/Neural-Symbolic-Integration-for-Recommendation-Systems.git
-
+```
 ### How to Use
 
 To run the model, navigate to the project directory and execute:
+```bash
 python MF.py
+```
 
 
 Evaluation
@@ -44,6 +47,7 @@ The results demonstrate that the inclusion of symbolic logic enhances interpreta
 SLPLR RECSYS: NDCG@10 - 0.1261
 Baseline MF: NDCG@10 - 0.9487
 MF with Logic: Various configurations yielded NDCG@10 ranging from 0.1602 to 0.9714
+
 Contributors
 Balassubramanian Srinivasan
 Ziwei Zhu
