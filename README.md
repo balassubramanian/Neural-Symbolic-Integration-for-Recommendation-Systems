@@ -45,6 +45,15 @@ python MF.py
 Evaluation
 The results demonstrate that the inclusion of symbolic logic enhances interpretability without compromising the accuracy of the model:
 
+| Model         | Hyperparameters                      | NDCG@10 |
+|---------------|--------------------------------------|---------|
+| SLPLR RECSYS  | -                                    | 0.1261  |
+| Mf            | lr=0.0001, re=0.001, epoch=100, hidden dime=64 | 0.9487  |
+| Mf with logic | lr=0.001, re=0.0001, epoch=100, hidden dime=64 | 0.8021  |
+| Mf with logic | lr=0.01, re=0.0001, epoch=100, hidden dime=64 | 0.9714  |
+| Mf with logic | lr=0.0001, re=0.001, epoch=100, hidden dime=128 | 0.9628  |
+| Mf with logic | lr=0.001, re=0.000001, epoch=100, hidden dime=128 | 0.1602  |
+
 SLPLR RECSYS: NDCG@10 - 0.1261
 Baseline MF: NDCG@10 - 0.9487
 MF with Logic: Various configurations yielded NDCG@10 ranging from 0.1602 to 0.9714
